@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rust</folder>
+	<filename>rust_155775344.jpeg</filename>
+	<path>/Users/a0p07yx/Documents/Projects/workorder/WO_Images/Rust/rust_155775344.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2835</xmin>
+			<ymin>2728</ymin>
+			<xmax>3009</xmax>
+			<ymax>2880</ymax>
+		</bndbox>
+	</object>
+</annotation>
